@@ -4,7 +4,7 @@
 .firkant1{
     width: 100px;
     height: 100px;
-    background-color: rgb(255, 140, 127);
+    background-color: rgb(0, 0, 0);
     animation-name: movebox;
     animation-duration: 2s;
     animation-iteration-count: 3;
